@@ -1,6 +1,16 @@
 Ttorrent, a Java implementation of the BitTorrent protocol
 ==========================================================
 
+
+Changelog repat
+-----------
+I wanna use it as a client in an android app
+
+* removed tracker
+* removed main()-methods
+* removed apache logger
+
+
 Description
 -----------
 
